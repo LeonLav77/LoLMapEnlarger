@@ -1,0 +1,9 @@
+What I dislike about this project:
+I did it in Python, when c++ would have been a better choice
+The framerate is slow
+The code is probably not optimized
+
+What I like about this project:
+I used a lesser know library
+It has a practical use
+I could advance it(Ie. add computer vision)
